@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="177f617f-1304-4adf-ae35-6d7415e679ff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1w2ZafYJ6OATaKlVxXZmbqbqG3i" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\java-basic" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.basic" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\java-basic" />
+      <recent name="D:\Java\java-basic\src\com\example\databaseDemo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="DBUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.databaseDemo.src.blog.jdbc.DBUtils" />
+      <module name="java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.databaseDemo.src.blog.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.databaseDemo.src.blog.jdbc.Demo" />
+      <module name="java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.databaseDemo.src.blog.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unit56" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.oop.Unit56" />
+      <module name="java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unit57" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.oop.Unit57" />
+      <module name="java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mysql-connector-java-8.0.21.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/src/com/example/databaseDemo/mysql-connector-java-8.0.21.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.DBUtils" />
+        <item itemvalue="JAR Application.mysql-connector-java-8.0.21.jar" />
+        <item itemvalue="Application.Unit57" />
+        <item itemvalue="Application.Unit56" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="177f617f-1304-4adf-ae35-6d7415e679ff" name="Default Changelist" comment="" />
+      <created>1627658709022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627658709022</updated>
+      <workItem from="1627658710629" duration="4004000" />
+      <workItem from="1627693488134" duration="1098000" />
+      <workItem from="1627804903674" duration="587000" />
+      <workItem from="1627884079556" duration="6320000" />
+      <workItem from="1627921592320" duration="9434000" />
+      <workItem from="1627971235832" duration="8331000" />
+      <workItem from="1628004134075" duration="8638000" />
+      <workItem from="1628069242657" duration="15000" />
+      <workItem from="1628278704960" duration="108000" />
+      <workItem from="1628279456614" duration="9000" />
+      <workItem from="1628446434272" duration="3486000" />
+      <workItem from="1628451651843" duration="1860000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="74" key="#SQL_Dialects" timestamp="1628013705571">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="74" key="#SQL_Dialects/0.0.1536.824@0.0.1536.824" timestamp="1628013705571" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1628448624069">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1628448624069" />
+    <state x="144" y="218" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1628007478240">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="144" y="218" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1628007478240" />
+    <state x="190" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1627929133094">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="190" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1627929133094" />
+    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1628009613598">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1628009613598" />
+    <state x="183" y="300" width="413" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1627921845564">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="183" y="300" width="413" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1627921845564" />
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1628278763310">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1628278763310" />
+    <state width="723" height="579" key="GridCell.Tab.0.bottom" timestamp="1628015854170">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="579" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1628015854170" />
+    <state width="723" height="579" key="GridCell.Tab.0.center" timestamp="1628015854170">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="579" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1628015854170" />
+    <state width="723" height="579" key="GridCell.Tab.0.left" timestamp="1628015854170">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="579" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1628015854170" />
+    <state width="723" height="579" key="GridCell.Tab.0.right" timestamp="1628015854170">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="579" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1628015854170" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1628449816081">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1628449816081" />
+    <state x="88" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1628279457220">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="88" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1628279457220" />
+    <state x="209" y="108" key="new project wizard" timestamp="1628278768565">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="108" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1628278768565" />
+    <state x="46" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1627926789053">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="46" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1627926789053" />
+  </component>
+</project>
